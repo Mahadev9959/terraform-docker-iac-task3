@@ -32,3 +32,7 @@ Successfully created and tested the Nginx Docker container using Terraform, insp
 
 ## Verification
 The Nginx welcome page was accessible at `http://localhost:8085` while the container was running.
+
+# terraform-docker-iac-task3
+Task 3 - Infrastructure as Code using Terraform and Docker
+ 0d5a76b83071017cc4474436a4c2b585dddfa6f3
